@@ -1,0 +1,7 @@
+CREATE TABLE Employees (
+EmployeeID int,
+FirstName varchar(255),
+LastName varchar(255),
+Department varchar(255),
+Salary decimal(10, 2)
+);
